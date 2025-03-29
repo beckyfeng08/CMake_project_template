@@ -1,6 +1,7 @@
 # CMake_project_template
 Slides: https://docs.google.com/presentation/d/1Styseac5HfHkkkB2wizcctGC8X2iSjslBuiLphlUH2Y/edit?usp=sharing
-Building instructions:
+
+Building instructions in the command line:
 ```bash
 git clone https://github.com/Cookei/UCBUGG-website-recreation.git
 
