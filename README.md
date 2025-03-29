@@ -3,7 +3,7 @@ Slides: https://docs.google.com/presentation/d/1Styseac5HfHkkkB2wizcctGC8X2iSjsl
 
 Building instructions in the command line:
 ```bash
-git clone https://github.com/Cookei/UCBUGG-website-recreation.git
+git clone [https://github.com/Cookei/UCBUGG-website-recreation.git](https://github.com/beckyfeng08/CMake_project_template.git)
 
 cd /path/to/CMake_project_template
 
